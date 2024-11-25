@@ -27,4 +27,7 @@ The CAP system builds upon recent advances in mobile robot sensing and a recentl
 
 <br></br>
 ### Publication
-[Confined Space Underwater Positioning Using Collaborative Robots](https://www.authorea.com/users/817385/articles/1217760-confined-space-underwater-positioning-using-collaborative-robots)
+<a href="https://www.authorea.com/users/817385/articles/1217760-confined-space-underwater-positioning-using-collaborative-robots" target="_blank">
+Confined Space Underwater Positioning Using Collaborative Robots
+</a>
+
